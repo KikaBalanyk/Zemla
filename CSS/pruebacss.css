@@ -1,0 +1,171 @@
+.about-us {
+  color: #83830a;
+  text-align: left;
+  letter-spacing: 5px; }
+
+.home-img {
+  margin: 0 0 30px 0;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-around; }
+
+.dropdown {
+  margin: 0 30px 30px 0;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: right;
+  align-items: center; }
+
+.breadcrumb {
+  margin: 0 0 30px 0;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center; }
+
+.scale {
+  transition: all 0.5s ease-in-out; }
+
+.scale:hover {
+  transform: scale(1.2); }
+
+.search {
+  display: flex;
+  flex-flow: row wrap;
+  align-content: center;
+  justify-content: center; }
+
+#brumas {
+  color: #b4b356;
+  font-size: 25px; }
+
+#aroma {
+  color: #b4b356;
+  font-size: 25px; }
+
+tr {
+  color: #d6d585;
+  font-size: 15px;
+  text-align: center; }
+
+#velas {
+  color: #b4b356;
+  font-size: 25px; }
+
+h2 {
+  color: #b4b356;
+  font-size: 25px;
+  text-transform: uppercase; }
+
+.pagos {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-around; }
+
+.divCarrito {
+  padding: 5px;
+  border: solid 2px black;
+  width: 350px;
+  margin: 0 10px 20px 20px; }
+
+.divPagos {
+  padding: 5px;
+  border: solid 2px black;
+  width: 250px;
+  margin: 0 10px 20px 20px; }
+
+.kits {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-around; }
+
+.body {
+  font-family: 'Monserrat',sans-serif;
+  margin: 0;
+  padding: 0; }
+
+.header {
+  height: auto;
+  width: auto;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  padding: 5px;
+  background: linear-gradient(180deg, #e97913 0%, white 100%); }
+
+.p-all {
+  font-size: 20px;
+  word-spacing: 5 px;
+  text-align: center;
+  font-style: italic; }
+
+.carrito {
+  font-size: 20px;
+  word-spacing: 0px; }
+
+.inline {
+  display: inline-block;
+  image-orientation: left; }
+
+main section h1 {
+  color: #474542;
+  font-family: 'Monserrat',sans-serif;
+  font-size: 35px;
+  font-weight: 500;
+  text-align: center;
+  word-spacing: 10px;
+  animation-name: titulo;
+  animation-duration: 2s; }
+
+.color-link:hover {
+  color: #e9b60e; }
+
+main section nav {
+  color: #cfb583;
+  padding: 20 px;
+  border: solid 5px #eca93d;
+  margin: 0px 0px 40px 0px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  padding: 5px; }
+
+ul {
+  margin: 0;
+  list-style: none; }
+
+.divZemla {
+  padding: 5px;
+  width: 150px;
+  display: inline-block; }
+
+.divContact {
+  padding: 5px;
+  width: 230px;
+  display: inline-block; }
+
+.divMap {
+  padding: 5px;
+  width: auto;
+  display: inline-block; }
+
+.divRedes {
+  padding: 5px;
+  width: 180px;
+  display: inline-block; }
+
+.divNovedad {
+  padding: 5px;
+  width: auto;
+  display: inline-block; }
+
+#newsletter {
+  font-family: 'Monserrat', sans-serif;
+  font-size: 15px;
+  color: black; }
+
+footer {
+  height: auto;
+  width: auto;
+  background: linear-gradient(0deg, #e97913 0%, white 100%); }
